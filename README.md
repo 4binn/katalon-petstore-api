@@ -39,7 +39,6 @@ https://petstore.swagger.io/v2
 | POST | `/pet` | Membuat data hewan baru |
 | PUT | `/pet` | Memperbarui data hewan |
 | GET | `/pet/{petId}` | Mengambil data hewan berdasarkan ID |
-| DELETE | `/pet/{petId}` | Menghapus data hewan |
 
 ## Skenario Pengujian
 
