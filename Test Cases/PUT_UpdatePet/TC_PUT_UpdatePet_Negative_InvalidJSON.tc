@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PUT_UpdatePet_Negative_InvalidJSON</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd7b7666-0336-4c5b-960f-cb101fd3d90a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_POST_CreatePet_Negative_MissingName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df90d719-0c7a-4a34-afb8-e67f13ff4c0c</testCaseGuid>
+</TestCaseEntity>
