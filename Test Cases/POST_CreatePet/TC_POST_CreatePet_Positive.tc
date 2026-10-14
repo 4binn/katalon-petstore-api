@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_POST_CreatePet_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>84cfaa30-0c8b-4b74-9eb0-bc818ff3df32</testCaseGuid>
+</TestCaseEntity>
