@@ -70,8 +70,6 @@ Pengujian E2E dirancang untuk memvalidasi rangkaian proses pengelolaan data hewa
 2. **Retrieve Pet** — Mengambil data yang telah dibuat melalui permintaan GET.
 3. **Update Pet** — Memperbarui informasi hewan melalui permintaan PUT.
 4. **Verify Update** — Memastikan perubahan data berhasil melalui permintaan GET.
-5. **Delete Pet** — Menghapus data hewan melalui permintaan DELETE.
-6. **Verify Deletion** — Memeriksa respons setelah data dihapus.
 
 Alur ini digunakan untuk memastikan setiap operasi API dapat bekerja secara berurutan dalam satu rangkaian pengujian.
 
